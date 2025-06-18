@@ -1,0 +1,6 @@
+train: ./yolo_helmet_dataset/train/images
+val: ./yolo_helmet_dataset/valid/images
+test: ./yolo_helmet_dataset/test/images
+
+nc: 2
+names: ['helmet', 'no_helmet']

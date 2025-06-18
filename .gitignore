@@ -1,0 +1,5 @@
+yolo_helmet_dataset/
+runs/
+venv/
+*.pt
+__pycache__/
